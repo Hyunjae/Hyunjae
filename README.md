@@ -35,7 +35,6 @@
 <br>
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyunjae&theme=buefy_icons=true)
- 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyunjae&show_icons=true&theme=buefy)
  
 </div>
