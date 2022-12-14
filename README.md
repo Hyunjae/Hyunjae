@@ -1,4 +1,6 @@
 
+<div align=center>
+ 
 ### 👋 Hi, I’m Now J 👋
 
  I'm a junior web developer using Java.
@@ -32,4 +34,8 @@
 
 <br>
 <br>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyunjae&theme=buefy_icons=true)
+ 
+ 
+</div>
